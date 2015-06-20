@@ -1,3 +1,41 @@
+commit f8617bceda8186d774add79a5ed4105c603b3430
+Merge: 47c2991 b0e833f
+Author: Luis Alberto Ortega <mew_9010@hotmail.com>
+Date:   Fri Jun 19 20:47:01 2015 -0500
+
+    Merge branch 'font'
+    Consolidando la fuente principal del proyecto
+
+commit b0e833fff3e29fef4077c0a43afcfbd2fcec2a2b
+Author: Luis Alberto Ortega <mew_9010@hotmail.com>
+Date:   Fri Jun 19 20:46:32 2015 -0500
+
+    Aumento de tamaño de fuente a 21px
+
+commit 47c299168f57044d468f57da0350594ff2a6ff79
+Author: Luis Alberto Ortega <mew_9010@hotmail.com>
+Date:   Fri Jun 19 20:45:17 2015 -0500
+
+    Se agregó enlace a Linkedin
+
+commit 519d3a7ac9327958aea948f8165226268c7a0b10
+Author: Luis Alberto Ortega <mew_9010@hotmail.com>
+Date:   Fri Jun 19 20:06:05 2015 -0500
+
+    Cambio de background a gris
+
+commit bda76588913a9bbbb0e35f18cd2f895c64fdea2a
+Author: Luis Alberto Ortega <mew_9010@hotmail.com>
+Date:   Fri Jun 19 20:00:47 2015 -0500
+
+    Cambio de background a rosa mexicano
+
+commit a7ce1c300560bbeeffb58a8360a0ac4622674de0
+Author: Luis Alberto Ortega <mew_9010@hotmail.com>
+Date:   Fri Jun 19 18:50:33 2015 -0500
+
+    Se agregaró archivo con commits realizados la clase 1
+
 commit 4d436d3e9b2ea1c91e96d61fa8ba339d1c0cc85f
 Author: Luis Alberto Ortega <mew_9010@hotmail.com>
 Date:   Fri Jun 19 17:09:08 2015 -0500
