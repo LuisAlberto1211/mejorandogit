@@ -1,3 +1,9 @@
+commit 10c70a4fec9722d74f58c99a0f07b71f4d78dcd5
+Author: Luis Alberto Ortega <mew_9010@hotmail.com>
+Date:   Fri Jun 19 21:05:36 2015 -0500
+
+    Fondo de color negro
+
 commit f8617bceda8186d774add79a5ed4105c603b3430
 Merge: 47c2991 b0e833f
 Author: Luis Alberto Ortega <mew_9010@hotmail.com>
